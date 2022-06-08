@@ -6,6 +6,6 @@
   <li>React useRef hook</li>
   <li>React portals</li>
   <li>React useEffect hook</li>
-  <li>And highly configurable and reuseable components</li>
- 
+  <li>And highly configurable reuseable components</li>
+   <li>Firebase real time database</li>
 </ul>
